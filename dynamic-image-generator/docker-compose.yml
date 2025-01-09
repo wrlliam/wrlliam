@@ -8,7 +8,7 @@ services:
       - GITHUB_AUTH_TOKEN=${GITHUB_AUTH_TOKEN}
       - BROWERLESS_URL=ws://localhost:3211
   browserless:
-    image: ghrc.io/browserless/chromeium
+    image: ghrc.io/browserless/chromium
     environment:
       - DEBUG=browserless:*
       - MAX_CONCURRENT_SESSIONS=10
