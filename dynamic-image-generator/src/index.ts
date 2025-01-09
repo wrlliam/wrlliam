@@ -21,6 +21,12 @@ export const app = new Elysia()
       },
     });
   })
-  .listen(7254, () => {
-    console.log(`Listening on port: 7254`)
-  });
+  .listen(
+    {
+      hostname: "0.0.0.0",
+      port: 7254,
+    },
+    () => {
+      console.log(`Listening on port: 7254`);
+    }
+  );
