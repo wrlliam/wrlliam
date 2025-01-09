@@ -1,1 +1,0 @@
-docker build . -f ./.nixpacks/Dockerfile -t dynamic_image_generator --build-arg CI=true --build-arg NIXPACKS_METADATA=node --build-arg NODE_ENV=production --build-arg NPM_CONFIG_PRODUCTION=false
