@@ -1,0 +1,9 @@
+services:
+  dig:
+    image: git.banham.info/will/dig
+    container_name: dynamic_image_generator
+    ports:
+      - 5001:7254
+    environment:
+      - GITHUB_AUTH_TOKEN=${GITHUB_AUTH_TOKEN}
+      - BROWERLESS_URL=${BROWERLESS_URL}
