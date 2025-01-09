@@ -7,3 +7,20 @@ services:
     environment:
       - GITHUB_AUTH_TOKEN=${GITHUB_AUTH_TOKEN}
       - BROWERLESS_URL=${BROWERLESS_URL}
+  browserless:
+    image: browserless/chrome:latest
+    environment:
+      - DEBUG=browserless:*
+      - MAX_CONCURRENT_SESSIONS=10
+      - CONNECTION_TIMEOUT=60000
+      - MAX_QUEUE_LENGTH=20
+      - PREBOOT_CHROME=true
+      - DEMO_MODE=false
+      - HOST=0.0.0.0
+      - ENABLE_DEBUGGER=false
+      - PORT=3000
+      - WORKSPACE_DELETE_EXPIRED=true
+    container_name: "browserless_chromeium"
+    restart: always
+    ports:
+      - "3000:3000"
