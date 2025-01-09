@@ -27,7 +27,7 @@ RUN printf '\nPATH=/app/node_modules/.bin:$PATH' >> /root/.profile
 
 
 # start
-COPY ./dynamic-image-generator /app
+COPY . /app
 
 CMD ["bun run ./src/index.ts"]
 
