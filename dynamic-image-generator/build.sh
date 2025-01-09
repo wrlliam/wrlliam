@@ -1,1 +1,1 @@
-nixpacks build . --name dynamic_image_generator --start-cmd=bun run ./src/index.ts
+nixpacks build . --name dynamic_image_generator --start-cmd="bun run ./src/index.ts"
