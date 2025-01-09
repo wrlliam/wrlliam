@@ -1,6 +1,6 @@
 services:
   dig:
-    image: git.banham.info/will/dig
+    image: dynamic_image_generator
     container_name: dynamic_image_generator
     ports:
       - 5001:7254
