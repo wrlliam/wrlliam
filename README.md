@@ -11,12 +11,11 @@ full-stack developer with 7+ years across web, infrastructure, and networking. i
 
 ### stack
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,html,css,tailwind,linux,postgres,sqlite,mysql,bun,go,graphql,elysia&perline=12" />
-</a>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=github,git,docker,nextjs,mongodb,react,redis,figma,astro,cloudflare,nginx,nodejs,svelte&perline=13" />
-</a>
+<img src="https://skillicons.dev/icons?i=ts,html,css,go&perline=25" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,svelte,astro,nodejs,elysia,graphql,tailwind&perline=25" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis&perline=25" />
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,cloudflare,bun&perline=25" />
+<img src="https://skillicons.dev/icons?i=git,github,figma&perline=25" />
 
 ---
 
