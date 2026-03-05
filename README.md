@@ -25,7 +25,9 @@ full-stack developer with 7+ years across web, infrastructure, and networking. i
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/wrlliam/bnhm.dev">bnhm.dev</a> &nbsp;<sup>personal</sup></h4>
+      <h4><a href="https://github.com/wrlliam/bnhm.dev">bnhm.dev</a></h4>
+      <sup>personal</sup>
+      <br/><br/>
       <p>Personal portfolio and digital home. Built with a focus on performance and design — a living showcase of current work and thinking.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -34,7 +36,9 @@ full-stack developer with 7+ years across web, infrastructure, and networking. i
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/rundigi/digi">rundigi / digi</a> &nbsp;<sup>open source</sup></h4>
+      <h4><a href="https://github.com/rundigi/digi">rundigi / digi</a></h4>
+      <sup>open source</sup>
+      <br/><br/>
       <p>Modular microservices platform and infrastructure toolkit for modern web deployments. Designed for composability and self-hosting.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -43,10 +47,11 @@ full-stack developer with 7+ years across web, infrastructure, and networking. i
       </p>
     </td>
   </tr>
-  <tr><td colspan="2"><br/></td></tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/wrlliam/mylo">mylo</a> &nbsp;<sup>mobile</sup></h4>
+      <h4><a href="https://github.com/wrlliam/mylo">mylo</a></h4>
+      <sup>mobile</sup>
+      <br/><br/>
       <p>A mobile app that turns household chores into a rewarding experience for kids — habit tracking with points, streaks, and rewards built in.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -55,7 +60,9 @@ full-stack developer with 7+ years across web, infrastructure, and networking. i
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/wrlliam/stratum-shop">stratum-shop</a> &nbsp;<sup>e-commerce</sup></h4>
+      <h4><a href="https://github.com/wrlliam/stratum-shop">stratum-shop</a></h4>
+      <sup>e-commerce</sup>
+      <br/><br/>
       <p>Full-featured e-commerce platform tailored for 3D printing services — product configuration, order management, and storefront in one.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
